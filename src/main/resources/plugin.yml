@@ -1,0 +1,6 @@
+name: Babble
+version: '${project.version}'
+main: me.nightbeat.babble.Babble
+api-version: 1.18
+authors: [ Nightbeat ]
+description: Simple chat system for small servers.
